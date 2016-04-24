@@ -1,0 +1,8 @@
+pos_x:20.1920 pos_y:2.4640 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:7 
+
+
+pos_x:40.3840 pos_y:4.9280 speed_x:-50.4000 speed_y:0.0000 length:4.4000 id:7 
+
+
+pos_x:40.3840 pos_y:4.9280 speed_x:-50.4000 speed_y:0.0000 length:4.4000 id:7 
+05 11 08 1C 5A 00 37 48 13 62 77

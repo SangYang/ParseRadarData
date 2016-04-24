@@ -1,0 +1,700 @@
+
+car_count:6 
+pos_x:9.1200 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:32 
+pos_x:21.6320 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:21.6960 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:34 
+pos_x:34.1760 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:33 
+pos_x:34.2400 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:46.7200 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:5 
+pos_x:21.3440 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:34 
+pos_x:21.8240 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:33.8880 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:34.3360 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:33 
+pos_x:46.8800 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:5 
+pos_x:20.9920 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:34 
+pos_x:21.9840 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:33.5360 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:34.4960 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:33 
+pos_x:47.0400 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:5 
+pos_x:20.6400 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:34 
+pos_x:22.1440 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:33.1840 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:34.6880 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:33 
+pos_x:47.2000 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:5 
+pos_x:20.2880 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:34 
+pos_x:22.3040 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:32.8320 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:34.8480 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:33 
+pos_x:47.3600 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:5 
+pos_x:19.9360 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:34 
+pos_x:22.4640 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:32.4800 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:35.0080 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:33 
+pos_x:47.5200 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:5 
+pos_x:19.6160 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:34 
+pos_x:22.6240 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:32.1280 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:35.1680 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:33 
+pos_x:47.6800 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:5 
+pos_x:19.2640 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:34 
+pos_x:22.7840 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:31.8080 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:35.3280 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:33 
+pos_x:47.8720 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:5 
+pos_x:18.9120 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:34 
+pos_x:22.9440 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:31.4560 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:35.4880 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:33 
+pos_x:48.0320 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:4 
+pos_x:18.5600 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:34 
+pos_x:23.1040 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:31.1040 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:48.1920 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:4 
+pos_x:18.2080 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:34 
+pos_x:23.2640 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:30.7520 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:48.3520 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:4 
+pos_x:17.8560 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:34 
+pos_x:23.4240 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:30.4000 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:48.5120 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:5 
+pos_x:17.5040 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:34 
+pos_x:23.6160 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:30.0480 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:48.6720 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+pos_x:50.2080 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+
+car_count:5 
+pos_x:17.1520 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:34 
+pos_x:23.7760 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:29.6960 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:48.8320 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+pos_x:49.8880 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+
+car_count:5 
+pos_x:16.8000 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:34 
+pos_x:23.9360 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:29.3440 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:48.9920 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+pos_x:49.5360 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+
+car_count:5 
+pos_x:16.4480 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:34 
+pos_x:24.0960 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:29.0240 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:49.1520 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+pos_x:49.1840 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+
+car_count:5 
+pos_x:16.0960 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:34 
+pos_x:24.2560 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:28.6720 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:48.8320 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:49.3120 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:6 
+pos_x:15.7760 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:34 
+pos_x:24.4160 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:28.3200 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:36.9600 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:48.4800 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:49.4720 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:6 
+pos_x:15.4240 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:34 
+pos_x:24.5760 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:27.9680 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:37.1200 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:48.1280 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:49.6320 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:6 
+pos_x:15.0720 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:34 
+pos_x:24.7360 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:27.6160 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:37.2800 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:47.7760 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:49.8240 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:6 
+pos_x:14.7200 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:34 
+pos_x:24.8960 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:27.2640 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:37.4400 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:47.4560 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:49.9840 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:6 
+pos_x:14.3680 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:34 
+pos_x:25.0560 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:26.9120 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:37.6000 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:47.1040 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:50.1440 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:6 
+pos_x:14.0160 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:34 
+pos_x:25.2160 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:26.5600 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:37.7600 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:46.7520 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:50.3040 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:6 
+pos_x:13.6640 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:34 
+pos_x:25.4080 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:26.2400 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:37.9520 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:46.4000 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:50.4640 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:6 
+pos_x:13.3120 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:34 
+pos_x:25.5680 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:25.8880 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:38.1120 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:46.0480 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:50.6240 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:6 
+pos_x:12.9600 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:34 
+pos_x:25.5360 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:25.7280 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:38.2720 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:45.6960 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:50.7840 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:6 
+pos_x:12.6080 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:34 
+pos_x:25.1840 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:25.8880 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:38.4320 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:45.3440 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:50.9440 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:6 
+pos_x:12.2560 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:34 
+pos_x:24.8320 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:26.0480 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:38.5920 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:45.0240 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:51.1040 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:6 
+pos_x:11.9040 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:34 
+pos_x:24.4800 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:26.2080 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:38.7520 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:44.6720 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:51.2640 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:6 
+pos_x:11.5840 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:34 
+pos_x:24.1280 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:26.3680 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:38.9120 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:44.3200 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:51.4240 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:6 
+pos_x:11.2320 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:34 
+pos_x:23.7760 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:26.5280 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:39.0720 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:43.9680 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:51.5840 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:6 
+pos_x:10.8800 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:34 
+pos_x:23.4240 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:26.6880 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:39.2320 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:43.6160 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:51.7760 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:6 
+pos_x:10.5280 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:34 
+pos_x:23.1040 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:26.8480 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:39.3920 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:43.2640 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:51.9360 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:6 
+pos_x:10.1760 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:34 
+pos_x:22.7520 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:27.0080 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:39.5520 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:42.9120 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:52.0960 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:6 
+pos_x:9.8240 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:34 
+pos_x:22.4000 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:27.2000 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:39.7120 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:42.5600 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:52.2560 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:6 
+pos_x:9.4720 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:34 
+pos_x:22.0480 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:27.3600 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:39.9040 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:42.2400 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:52.4160 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:6 
+pos_x:9.1200 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:34 
+pos_x:21.6960 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:27.5200 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:40.0640 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:41.8880 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:52.5760 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:5 
+pos_x:21.3440 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:27.6800 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:40.2240 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:41.5360 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:52.7360 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:5 
+pos_x:20.9920 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:27.8400 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:40.3840 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:41.1840 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:52.8960 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:5 
+pos_x:20.6400 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:28.0000 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:40.5440 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:40.8320 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:53.0560 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:5 
+pos_x:20.2880 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:28.1600 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:40.4800 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:40.7040 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:53.2160 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:5 
+pos_x:19.9360 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:28.3200 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:40.1280 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:40.8640 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:53.3760 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:6 
+pos_x:19.6160 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:28.4800 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:39.8080 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:41.0240 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:50.2080 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:53.5360 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:6 
+pos_x:19.2640 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:28.6400 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:39.4560 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:41.1840 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:49.8880 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:53.7280 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:6 
+pos_x:18.9120 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:28.8000 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:39.1040 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:41.3440 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:49.5360 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:53.8880 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:6 
+pos_x:18.5600 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:28.9920 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:38.7520 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:41.5040 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:49.1840 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:54.0480 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:6 
+pos_x:18.2080 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:29.1520 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:38.4000 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:41.6640 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:48.8320 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:54.2080 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:6 
+pos_x:17.8560 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:29.3120 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:38.0480 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:41.8240 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:48.4800 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:54.3680 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:6 
+pos_x:17.5040 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:29.4720 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:37.6960 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:42.0160 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:48.1280 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:54.5280 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:6 
+pos_x:17.1520 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:29.6320 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:37.3440 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:42.1760 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:47.7760 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:54.6880 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:6 
+pos_x:16.8000 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:29.7920 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:37.0240 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:42.3360 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:47.4560 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:54.8480 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:6 
+pos_x:16.4480 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:29.9520 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:36.6720 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:42.4960 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:47.1040 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:55.0080 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:6 
+pos_x:16.0960 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:30.1120 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:36.3200 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:42.6560 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:46.7520 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:55.1680 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:6 
+pos_x:15.7760 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:30.2720 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:35.9680 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:42.8160 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:46.4000 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:55.3280 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:6 
+pos_x:15.4240 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:30.4320 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:35.6160 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:42.9760 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:46.0480 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:55.4880 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:6 
+pos_x:15.0720 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:30.5920 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:35.2640 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:43.1360 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:45.6960 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:55.6480 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:6 
+pos_x:14.7200 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:30.7520 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:34.9120 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:43.2960 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:45.3440 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:55.8400 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:6 
+pos_x:14.3680 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:30.9440 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:34.5920 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:43.4560 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:45.0240 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:56.0000 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:6 
+pos_x:14.0160 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:31.1040 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:34.2400 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:43.6160 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:44.6720 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:56.1600 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:7 
+pos_x:13.6640 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:18.7200 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:41 
+pos_x:31.2640 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:33.8880 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:43.7760 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:44.3200 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:56.3200 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:35 
+
+car_count:6 
+pos_x:13.3120 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:18.8800 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:41 
+pos_x:31.4240 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:33.5360 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:43.9680 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+pos_x:43.9680 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:40 
+
+car_count:6 
+pos_x:12.9600 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:19.0400 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:41 
+pos_x:31.5840 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:33.1840 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:43.6160 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:44.1280 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+
+car_count:6 
+pos_x:12.6080 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:19.2000 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:41 
+pos_x:31.7440 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:32.8320 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:43.2640 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:44.2880 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+
+car_count:6 
+pos_x:12.2560 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:19.3600 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:41 
+pos_x:31.9040 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:32.4800 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:42.9120 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:44.4480 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+
+car_count:6 
+pos_x:11.9040 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:19.5200 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:41 
+pos_x:32.0640 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:32.1280 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:42.5600 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:44.6080 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+
+car_count:6 
+pos_x:11.5840 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:19.6800 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:41 
+pos_x:31.8080 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:32.2240 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:42.2400 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:44.7680 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+
+car_count:6 
+pos_x:11.2320 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:19.8400 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:41 
+pos_x:31.4560 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:32.3840 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:41.8880 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:44.9280 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+
+car_count:6 
+pos_x:10.8800 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:20.0000 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:41 
+pos_x:31.1040 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:38 
+pos_x:32.5440 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:37 
+pos_x:41.5360 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:45.0880 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:39 
+
+car_count:6 
+pos_x:10.5280 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:36 
+pos_x:20.1920 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:41 
+pos_x:30.7520 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 
+car_count:4 
+pos_x:21.3440 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:41 
+pos_x:33.0560 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:41.5360 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:43 
+pos_x:45.5680 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:42 
+
+car_count:4 
+pos_x:20.9920 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:41 
+pos_x:33.2160 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:41.1840 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:43 
+pos_x:45.7280 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:42 
+
+car_count:4 
+pos_x:20.6400 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:41 
+pos_x:33.3760 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:40.8320 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:43 
+pos_x:45.9200 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:42 
+
+car_count:4 
+pos_x:20.2880 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:41 
+pos_x:33.5360 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:40.4800 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:43 
+pos_x:46.0800 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:42 
+
+car_count:4 
+pos_x:19.9360 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:41 
+pos_x:33.6960 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:40.1280 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:43 
+pos_x:46.2400 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:42 
+
+car_count:5 
+pos_x:19.6160 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:41 
+pos_x:33.8560 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:39.8080 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:43 
+pos_x:46.4000 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:42 
+pos_x:50.2080 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:44 
+
+car_count:5 
+pos_x:19.2640 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:41 
+pos_x:34.0160 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:39.4560 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:43 
+pos_x:46.5600 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:42 
+pos_x:49.8880 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:44 
+
+car_count:5 
+pos_x:18.9120 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:41 
+pos_x:34.1760 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:39.1040 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:43 
+pos_x:46.7200 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:42 
+pos_x:49.5360 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:44 
+
+car_count:5 
+pos_x:18.5600 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:41 
+pos_x:34.3360 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:38.7520 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:43 
+pos_x:46.8800 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:42 
+pos_x:49.1840 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:44 
+
+car_count:5 
+pos_x:18.2080 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:41 
+pos_x:34.4960 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:38.4000 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:43 
+pos_x:47.0400 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:42 
+pos_x:48.8320 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:44 
+
+car_count:5 
+pos_x:17.8560 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:41 
+pos_x:34.6880 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:38.0480 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:43 
+pos_x:47.2000 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:42 
+pos_x:48.4800 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:44 
+
+car_count:5 
+pos_x:17.5040 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:41 
+pos_x:34.8480 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:37.6960 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:43 
+pos_x:47.3600 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:42 
+pos_x:48.1280 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:44 
+
+car_count:5 
+pos_x:17.1520 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:41 
+pos_x:35.0080 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:37.3440 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:43 
+pos_x:47.5200 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:42 
+pos_x:47.7760 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:44 
+
+car_count:5 
+pos_x:16.8000 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:41 
+pos_x:35.1680 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:37.0240 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:43 
+pos_x:47.4560 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:44 
+pos_x:47.6800 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:42 
+
+car_count:5 
+pos_x:16.4480 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:41 
+pos_x:35.3280 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:36.6720 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:43 
+pos_x:47.1040 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:44 
+pos_x:47.8720 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:42 
+
+car_count:5 
+pos_x:16.0960 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:41 
+pos_x:35.4880 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:36.3200 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:43 
+pos_x:46.7520 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:44 
+pos_x:48.0320 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:42 
+
+car_count:5 
+pos_x:15.7760 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:41 
+pos_x:35.6480 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:35.9680 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:43 
+pos_x:46.4000 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:44 
+pos_x:48.1920 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:42 
+
+car_count:5 
+pos_x:15.4240 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:41 
+pos_x:35.6160 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:43 
+pos_x:35.8080 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:46.0480 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:44 
+pos_x:48.3520 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:42 
+
+car_count:5 
+pos_x:15.0720 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:41 
+pos_x:35.2640 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:43 
+pos_x:35.9680 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:45.6960 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:44 
+pos_x:48.5120 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:42 
+
+car_count:5 
+pos_x:14.7200 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:41 
+pos_x:34.9120 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:43 
+pos_x:36.1280 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:40 
+pos_x:45.3440 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:44 
+pos_x:48.6720 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:42 
+
+car_count:5 
+pos_x:14.3680 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:41 
+pos_x:18.7200 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:45 
+pos_x:34.5920 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:43 
+pos_x:45.0240 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:44 
+pos_x:48.8320 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:42 
+
+car_count:5 
+pos_x:14.0160 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:41 
+pos_x:18.8800 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:45 
+pos_x:34.2400 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:43 
+pos_x:44.6720 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:44 
+pos_x:48.9920 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:42 
+
+car_count:5 
+pos_x:13.6640 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:41 
+pos_x:19.0400 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:45 
+pos_x:33.8880 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:43 
+pos_x:44.3200 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:44 
+pos_x:49.1520 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:42 
+
+car_count:5 
+pos_x:13.3120 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:41 
+pos_x:19.2000 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:45 
+pos_x:33.5360 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:43 
+pos_x:43.9680 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:44 
+pos_x:49.3120 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:42 
+
+car_count:5 
+pos_x:12.9600 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:41 
+pos_x:19.3600 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:45 
+pos_x:33.1840 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:43 
+pos_x:43.6160 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:44 
+pos_x:49.4720 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:42 
+
+car_count:5 
+pos_x:12.6080 pos_y:2.4960 speed_x:-14.0000 speed_y:0.0000 length:4.4000 id:41 
+pos_x:19.5200 pos_y:-2.4960 speed_x:6.5000 speed_y:0.0000 length:4.4000 id:45 
+pos_x:32.8320 pos_y:2.4960 speed_x:-13.9000 speed_y:0.0000 length:4.4000 id:43 

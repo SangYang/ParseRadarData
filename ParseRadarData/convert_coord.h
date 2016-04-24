@@ -1,0 +1,6 @@
+#ifndef SSY_CONVERT_COORD_H
+#define SSY_CONVERT_COORD_H
+
+
+
+#endif // SSY_CONVERT_COORD_H
